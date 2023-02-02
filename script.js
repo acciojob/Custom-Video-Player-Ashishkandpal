@@ -19,4 +19,5 @@ function togglePlay(params) {
 }
 
 //add event listeners
-video.addEventListeners("click", togglePlay);
+video.addEventListener("click", togglePlay);
+toggle.addEventListeners

@@ -20,4 +20,4 @@ function togglePlay(params) {
 
 //add event listeners
 video.addEventListener("click", togglePlay);
-toggle.addEventListeners
+toggle.addEventListener("click", togglePlay);
